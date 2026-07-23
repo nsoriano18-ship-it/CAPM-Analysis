@@ -16,4 +16,10 @@ A Capital Asset Pricing Model (CAPM) analysis of 7 stocks (BA, META, MGM, NFLX, 
 
 ## Live charts
 Once hosted on GitHub Pages, each file in `charts/` is a fully interactive Plotly chart (zoom, hover, pan) viewable at:
-`https://<your-username>.github.io/<repo-name>/charts/<filename>.html`
+- [Price Evolution](https://nsoriano18-ship-it.github.io/CAPM-Analysis/charts/01_asset_price_evolution.html)
+- [COVID-19 Crash](https://nsoriano18-ship-it.github.io/CAPM-Analysis/charts/02_covid_impact.html)
+- [Daily Returns Time Series](https://nsoriano18-ship-it.github.io/CAPM-Analysis/charts/03_daily_returns_timeseries.html)
+- [Daily Returns Histogram](https://nsoriano18-ship-it.github.io/CAPM-Analysis/charts/04_daily_returns_histogram.html)
+- [Correlation Heatmap (Prices)](https://nsoriano18-ship-it.github.io/CAPM-Analysis/charts/05_correlation_heatmap_prices.html)
+- [Correlation Heatmap (Returns)](https://nsoriano18-ship-it.github.io/CAPM-Analysis/charts/06_correlation_heatmap_returns.html)
+- [Security Market Line](https://nsoriano18-ship-it.github.io/CAPM-Analysis/charts/07_security_market_line.html)
